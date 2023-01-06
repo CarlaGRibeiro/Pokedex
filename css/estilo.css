@@ -22,12 +22,12 @@ width:100%;
 max-width: 425px;
 }
 
-.pokemom_image{
+.pokemon_image{
 position: absolute;
 bottom:55%;
 left:40%;
 transform: translate(-30%,20%);
-height: 10%;
+height: 20%;
 
 }
 
@@ -99,3 +99,4 @@ gap: 20px;
 box-shadow:inset -3px 3px 0 black;
 font-size:0.9rem;
 }
+
